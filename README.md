@@ -13,6 +13,7 @@ Building Expense Manager is a Flutter application designed to help manage and tr
 - Sort residents by floor and apartment number
 
 ## Getting Started
+_test_initial_commit_
 
 ### Prerequisites
 
