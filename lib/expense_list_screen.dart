@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import './resident.dart';
+import './models/resident.dart';
+import './models/expense.dart';
 
 class ExpensesListScreen extends StatelessWidget {
   final List<Resident> residents;
